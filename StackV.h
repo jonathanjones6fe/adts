@@ -23,13 +23,9 @@ public:
    // The vector "knows" how to destroy itself
 
    int size();
-
    void push(int);
-
    void pop();
-
    int top();
-
    void clear();
 
 };
